@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    /* border: 2px solid red; */
+    width: 80% ;
+    margin: auto;
+    background-color: rgb(52, 50, 50 );
+    border-radius: 20px;
+}
+
+#title {
+    font-size: 90px;
+    text-align: center;
+}
+
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+#span1{
+    color: red;
+}
+
+#img-div{
+    /* border: 2px solid red; */
+    text-align: center;
+    
+}
+
+#image{
+    box-shadow: 5px 5px 10px red;
+    width: 350px;
+}
+
+#info{
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    font-size: 20 px;
+
+}
+
+#eserleri{
+    color: red;
+    margin-left: 10%;
+}
+ul{
+    width: 80%;
+    margin: auto;
+}
+li{
+    font-size: 20px;
+    line-height: 2rem;
+}
+
+#footer{
+    margin-left: 10%;
+    padding: 1rem;
+}
+
+#link{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 10px;
+    background-color: rgb(27, 36, 36);
+}
+#link:hover{
+    background-color: darkgoldenrod;
+    color: red;
+}
